@@ -1,0 +1,5 @@
+tests/test_main.c:19:test_readInput_getLine_tryOneLineExpect13:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK

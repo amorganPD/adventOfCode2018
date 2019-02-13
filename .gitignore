@@ -1,0 +1,10 @@
+
+# File Types
+*.o
+*.lst
+*.pbi.xcl
+*.pbd
+*.pbi
+*.cout
+*.dep
+*.exe
